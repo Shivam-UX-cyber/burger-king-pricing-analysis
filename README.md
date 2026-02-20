@@ -92,12 +92,18 @@ Segmentation was based on value metrics, pricing patterns, and business logic.
 
 ## 📂 Repository Structure
 
-burger-king-pricing-analysis
+## 📂 Repository Structure
+
+```
+burger-king-pricing-analysis/
 │
-├── 01_data_cleaning.ipynb
-├── 02_pricing_analysis.ipynb
-├── requirements.txt
-└── README.md
+├── 01_data_cleaning.ipynb      # Data extraction & preprocessing
+├── 02_pricing_analysis.ipynb   # EDA & business insights
+├── burger_king_dashboard.pdf   # Power BI dashboard export
+├── requirements.txt            # Project dependencies
+├── .gitignore                  # Ignored system & secret files
+└── README.md                   # Project documentation
+```
 
 ## 🔐 Data Access
 
